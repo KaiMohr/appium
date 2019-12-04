@@ -1,6 +1,7 @@
 # appium
 
-~/.bash_profile
+( vim ~/.bash_profile )
+
 export JAVA_HOME="$(/usr/libexec/java_home -v 1.8)"
 export PATH=$PATH:~/work/apps/apache-maven-3.6.0/bin
 export PATH="$PATH:/Users/kmoh/Library/Android/sdk/platform-tools"
